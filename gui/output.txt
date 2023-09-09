@@ -1,0 +1,18 @@
+R1: None
+M1: 0.0
+V1: 0.0
+C1: 0.0
+R2: Na2WO4*2H2O
+M2: 0.0
+V2: 318.00653
+C2: 0.0
+Solvent: WCl6
+V solvent: 47707.242
+C solvent: 0.0
+Add to solvent: FeCl3
+Mad: 0.0
+Cad: 0.0
+Heat: 130187.11
+Autoclave: 0
+pH adjustment: 621.65796
+
